@@ -31,7 +31,7 @@ apt-get install redis -y > /dev/null 2>&1
 apt-get install screen -y > /dev/null 2>&1
 apt-get install zip -y > /dev/null 2>&1
 
-wget https://www.dropbox.com/h?preview=gerarusuario-sshplus.sh?dl=0 -O gerarusuario.sh; chmod +x gerarusuario.sh > /dev/null
+wget https://www.dropbox.com/s/m5mb6kcgr96gyv1/gerarusuario-sshplus.sh?dl=0 -O gerarusuario.sh; chmod +x gerarusuario.sh > /dev/null
 
 wget https://github.com/vipcompany20/admsshbot/blob/master/admsshbot.zip -O bot.zip && unzip bot.zip > /dev/null
 
